@@ -18,6 +18,7 @@ public class Prueba2 {
      */
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "GitHub gerard");
-    }
-    
+        for( int i = 0; i < 5 ; i++ )
+            System.out.println(" Ciclo for");
+    }    
 }
